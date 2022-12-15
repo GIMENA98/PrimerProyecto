@@ -1,0 +1,37 @@
+
+body{
+    background-image: url(https://preview.redd.it/pxuklmmo7b351.jpg?auto=webp&s=aaebced8bbcb1ad1bd87df521950c076941fb57a);
+    background-repeat: no-repeat;
+   
+}
+ul{
+    list-style:circle;
+}
+header{
+    background-color: red;
+}
+img{
+    
+    width: 200px;
+    
+}
+h1 {
+    color: white;
+    background-color: red;
+}
+h2{
+    color: white;
+    background-color: red;
+}
+li{
+    color: rgba(7, 109, 243, 0.993);
+}
+ 
+i{
+    color: blue;
+    font-size: 50px;
+    
+}
+
+
+
